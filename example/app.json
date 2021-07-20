@@ -1,0 +1,22 @@
+{
+  "name": "cm-design-system-example",
+  "displayName": "CmDesignSystem Example",
+  "expo": {
+    "name": "cm-design-system-example",
+    "slug": "cm-design-system-example",
+    "description": "Example app for cm-design-system",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
